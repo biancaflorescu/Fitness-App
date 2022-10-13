@@ -1,0 +1,29 @@
+.pagination {
+  margin-top: 2rem;
+}
+
+.pagination button {
+  color: black;
+  font-weight: 700;
+  padding: 0.5rem 1rem;
+}
+
+.pagination button:hover {
+  color: black;
+  font-weight: 700;
+  /* background-color: lightgray !important; */
+}
+
+.pagination button:focus {
+  color: black;
+  font-weight: 700;
+  box-shadow: none;
+  background-color: white;
+}
+
+.pagination .pages {
+  display: flex;
+  align-items: center;
+  padding-inline: 1.2rem;
+  font-weight: 600;
+}
