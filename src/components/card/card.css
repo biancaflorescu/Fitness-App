@@ -1,0 +1,12 @@
+.card-title {
+  text-align: center;
+  text-transform: uppercase !important;
+  font-weight: bold !important;
+}
+
+.card-container {
+  position: relative;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 2rem;
+}
